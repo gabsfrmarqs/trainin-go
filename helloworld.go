@@ -7,3 +7,8 @@ import "fmt"
 func main(){
 	fmt.Println("Ayo")
 }
+
+/* 
+love some multi-line comments
+:)
+*/
