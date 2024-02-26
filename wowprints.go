@@ -10,6 +10,9 @@ func main(){
 	fmt.Println("This is a print using newline from Println")
 	fmt.Printf("This is a print using prinft: %v", str1)
 	fmt.Println(" " ,str2)
+
+	// %v prints value
+	// %T prints type
 }
 
 /*
