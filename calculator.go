@@ -16,3 +16,8 @@ func main(){
 	fmt.Println(num1 + num3)
 	fmt.Println(num2 + num3)
 }
+
+/*
+Also, var can be used inside/outside functions.
+Inferring works only inside a function
+*/
