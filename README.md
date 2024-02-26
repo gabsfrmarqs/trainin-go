@@ -1,1 +1,1 @@
-# trainin-go
+# training-go
