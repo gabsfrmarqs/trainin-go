@@ -45,12 +45,6 @@ func main(){
 	%6.2f 	Width 6, precision 2
 	%g 	Exponent as needed, only necessary digits
 	*/
-
-	
-
-
-
-
 }
 
 /*
