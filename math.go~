@@ -11,13 +11,13 @@ func main(){
 	floatSum := f1 + f2 + f3
 	
 	// ugly way
-	fmt.Println("Float sum (normal):  ", floatSum)
+	fmt.Println("Float sum: ", floatSum)
 	
 	// shitass way
 	floatSum = math.Round(floatSum*100)/100
-	fmt.Println("Float sum (shitass): ", floatSum)
+	fmt.Println("Float sum: ", floatSum)
 
 	//the python way
-	fmt.Println("Float sum (toptop): %.2f",floatSum) 
+	fmt.Println("Float sum: %.2f",floatSum) 
 
 }
