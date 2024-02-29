@@ -28,7 +28,6 @@ func main(){
 	switch numero {
 	case 0:
 		saida = "leite!"
-//		fallthrough // em go, switches tem break por padrão. fallthrough retorna ao comportamento que seria esperado em C, por exemplo
 	case 1: 
 		saida = "miku miku ooo eee ooo"
 	default:
